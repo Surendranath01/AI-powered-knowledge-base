@@ -6,4 +6,4 @@ Thia ia a semantic search tool to upload and query pdfs, notes, bookmarks using 
 Frontend- Next.js<br />
 Backend- Spring Boot(Java)<br />
 Database- MongoDB<br />
-AI- openAI Embeddings, Pinecone
+AI- OpenAI Embeddings, Pinecone
