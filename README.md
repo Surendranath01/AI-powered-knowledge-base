@@ -1,6 +1,9 @@
-# AI-powered-knowledge-base
-An AI-Powered knowledge search with semantic search (using Java+ AI search)
-Thia ia a semantic search tool to upload and query pdfs, notes, bookmarks using OpenAI embeddings and vector similarity search with integrated file uploads, text extraction etc.
+# AI-Powered Knowledge Base
+## Problem statement
+People gather a lot of information(notes, PDFs, bookmarks) but can't search it effectively.
+
+## Project Idea
+Build a second-brain web app that lets users upload notes/PDFs. Then ask questions that get AI-Powered answers.
 
 ## Tech Stack<br />
 Frontend- Next.js<br />
